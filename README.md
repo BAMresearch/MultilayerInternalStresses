@@ -1,3 +1,5 @@
+For the simulation run the following steps:
+
 git clone https://github.com/BAMresearch/MultilayerInternalStresses.git
 
 unzip without-reaction-layers.zip
