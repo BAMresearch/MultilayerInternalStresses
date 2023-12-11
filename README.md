@@ -20,8 +20,12 @@ abaqus j=with-reaction-layers cpus=[Number of CPUs]
 - Primary data for curve generation is stored in *.rpt files
 - Mesh data (Node coordinates and element table, node sets and element sets) are compressed in the *.zip files
 
+Distribution of internal stresses in the multilayers calculated by FEM with and without consideration of reaction layers in terms of orthogonal normal stress in x-direction
+
+left half of the contour plot of multilayer without reaction layers
 
 ![](without-reaction-layers-S11.png)
 
+normal stress in x-direction
 
 ![](without-reaction-layers.png)
