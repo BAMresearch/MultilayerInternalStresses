@@ -29,3 +29,5 @@ a) left half of the contour plot of multilayer without reaction layers
 b) normal stress in x-direction
 
 ![](without-reaction-layers.png)
+
+The files are released under the CC BY 4.0 license.
