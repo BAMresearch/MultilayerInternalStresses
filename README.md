@@ -22,10 +22,10 @@ abaqus j=with-reaction-layers cpus=[Number of CPUs]
 
 Distribution of internal stresses in the multilayers calculated by FEM with and without consideration of reaction layers in terms of orthogonal normal stress in x-direction
 
-left half of the contour plot of multilayer without reaction layers
+a) left half of the contour plot of multilayer without reaction layers
 
 ![](without-reaction-layers-S11.png)
 
-normal stress in x-direction
+b) normal stress in x-direction
 
 ![](without-reaction-layers.png)
