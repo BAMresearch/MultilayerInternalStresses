@@ -3,6 +3,8 @@
 ```
 git clone https://github.com/BAMresearch/MultilayerInternalStresses.git
 
+cd MultilayerInternalStresses
+
 unzip without-reaction-layers.zip
 
 unzip with-reaction-layers.zip
