@@ -1,3 +1,7 @@
+
+### Effect of reaction layers on internal stresses in co-fired multilayers of calcium manganate and calcium cobaltite
+* Supplementary materials: Abaqus simulation files
+
 **For the simulation run the following steps:**
 
 ```
