@@ -13,3 +13,5 @@ abaqus j=without-reaction-layers cpus=[Number of CPUs]
 
 abaqus j=with-reaction-layers cpus=[Number of CPUs]
 ```
+- Primary data for curve generation is stored in *.rpt files
+- Mesh data (Node coordinates and element table, node sets and element sets) are compressed in the *.zip files
